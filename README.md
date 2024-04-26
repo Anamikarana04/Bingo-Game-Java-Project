@@ -1,1 +1,2 @@
 # Bingo-Game-Java-Project
+Bingo is a popular game of chance where players mark off numbers on a card as they are randomly called out. The game continues until a player achieves a specific pattern, such as a straight line, diagonal, or full card, and calls out 'Bingo!' to claim the win. Bingo is enjoyed in various settings, from social gatherings to organized events, and offers simple yet exciting entertainment for participants of all ages.
